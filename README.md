@@ -1,4 +1,4 @@
-Fake Data Generator
+## Fake Data Generator
 
 A simple Python Tkinter app for generating and managing fake data.
 
